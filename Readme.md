@@ -1,10 +1,10 @@
-# Learn Python
+#Learn Python
 
 ###### Self study with online tutorials and youtube videos
 
 ###### Based on you tube videos and online tutorials
 
-### PYTHON-3-ESSENTIAL-TRAINING
+##### PYTHON-3-ESSENTIAL-TRAINING
 ============================
 
 + Introduction
@@ -32,6 +32,7 @@
 
 
 
+=======================================================================================================================
 =======================================================================================================================
 
 #### Python Development bookmarks from [@ninjas/python-dev-bookmarks](https://github.com/ninjaas/python-dev-bookmarks)
